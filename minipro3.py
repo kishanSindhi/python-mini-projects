@@ -1,3 +1,9 @@
+# Author - Kishan Sindhi
+# date - 30-5-2021
+# discription - this a text based adventure game
+# in this game user is provided choice and from the given choice he have to guess ehat he whant to do
+
+
 print('''You are standing in a dark room.
 You can't see any thing as it is so dark.
 But suddently you see a ittle ray of light at a distant
