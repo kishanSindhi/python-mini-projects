@@ -1,3 +1,9 @@
+# Author - Kishan Sindhi
+# date - 30-5-2021
+# discription - HEre in this mini project i have created a contact list with the help of dictonary
+# in project you can add, delete, search and you can view whole contact list
+
+
 from time import sleep
 contact = {"kishan": "123456", "akshay": "1234", "shivam": "1234567",
            "dad": "12312", "mom": "123123", "abhi": "4556345", "bonny": "534513"}
