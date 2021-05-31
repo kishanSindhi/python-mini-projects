@@ -1,3 +1,9 @@
+# Author - Kishan Sindhi
+# date - 30-5-2021
+# discription - Here i have created a simple rolling dice stimmulator
+# for making it feel real i ahve added sound of dice with the help of "playsound" module
+
+
 from playsound import playsound
 from random import randint
 
