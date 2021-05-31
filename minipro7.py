@@ -1,3 +1,11 @@
+# Author - Kishan Sindhi
+# date - 31-5-2021
+# discription - This function reminds you to drink water and to sanitize through windows notification
+# here in this function i have used plyer module and also given logo to the notification 
+# this programm drop a notification after a fixed amount of time
+
+
+
 from plyer import notification
 from time import sleep
 
