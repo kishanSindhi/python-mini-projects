@@ -1,3 +1,10 @@
+# author - Kishan Sindhi
+# date - 30-5-2021
+# discription - This is the simple number guessing game 
+# in this mini project the user enters a upper limit and a lower limit
+# the one who guess the number in less guess wins the game
+
+
 import random
 
 
