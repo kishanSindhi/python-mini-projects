@@ -1,3 +1,9 @@
+#author - Kishan Sindhi
+#date - 29-5-2021
+#discription - its a simple python mini project named as "mid lib genrator"
+#in this the user have to guess the correct ans and fill it in the blank
+#Each blank contains one mark
+
 print("You have to fill the correct answer in the story\n")
 que = '''
 One day in ____(1) I saw my ___(2) acting ___(3). She was ___(4) a big ___(5) then she went 
